@@ -1,4 +1,4 @@
-# NOTEBOOK FOLDER CONTENTS
+# Notebooks with basic ML concepts applied to simple problems.
 
 ### 01_Python : Basiscs of Python
 ### 02_NumPy  : Numpy library usage.
